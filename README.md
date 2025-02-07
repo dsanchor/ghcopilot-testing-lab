@@ -11,6 +11,11 @@ This repository contains a collection of challenges to improve your skills with 
 - [Jmeter](https://jmeter.apache.org/download_jmeter.cgi)
 - Access to SonarQube (or a local instance running with Docker)
 
+## Getting started
+
+1. Clone this repository. 
+2. Open the project in Visual Studio Code or your favorite editor.
+
 ## Challenges
 
 ### Understand the API
