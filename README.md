@@ -58,7 +58,7 @@ In this challenge, you will create unit tests for the API. You will need to crea
 
 ### Customize instructions
 
-    How can you customize the instructions to generate tests automatically? Use [GitHub ](https://docs.github.com/en/copilot/customizing-copilot/adding-custom-instructions-for-github-copilot)
+    How can you customize the instructions to generate tests automatically? Use [GitHub Copilot custom instructions](https://docs.github.com/en/copilot/customizing-copilot/adding-custom-instructions-for-github-copilot)
 
     Validate that you only get tests implementations only when asked for new features.
 
