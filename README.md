@@ -32,7 +32,7 @@ In this challenge, you will create unit tests for the API. You will need to crea
 
     It is your first test, I will provide some tips: 
 
-    - Use predifined commands.
+    - Use predefined commands.
     - Add context to the ask, in this case, the repository class.
 
     Expected result: a new test class named `EmployeeRepositoryTest`.
