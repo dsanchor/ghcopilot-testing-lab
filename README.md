@@ -50,6 +50,12 @@ In this challenge, you will create unit tests for the API. You will need to crea
     Expected result: a new test class named `EmployeeControllerTest`.
 
 
+**Bonus**
+
+    Create a new operation in the API, such as find employees by email and all the tests in every layer in a single shot.
+
+    Tips: Use multi edit feature and provide all the necessary classes.
+
 ### Customize instructions
 
     How can you customize the instructions to generate tests automatically? Use [GitHub ](https://docs.github.com/en/copilot/customizing-copilot/adding-custom-instructions-for-github-copilot)
