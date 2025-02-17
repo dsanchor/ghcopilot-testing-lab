@@ -32,7 +32,7 @@ In this challenge, you will create unit tests for the API. You will need to crea
 
     It is your first test, I will provide some tips: 
 
-    - Use predifened commands.
+    - Use predefined commands.
     - Add context to the ask, in this case, the repository class.
 
     Expected result: a new test class named `EmployeeRepositoryTest`.
@@ -58,7 +58,7 @@ In this challenge, you will create unit tests for the API. You will need to crea
 
 ### Customize instructions
 
-    How can you customize the instructions to generate tests automatically? Use [GitHub ](https://docs.github.com/en/copilot/customizing-copilot/adding-custom-instructions-for-github-copilot)
+    How can you customize the instructions to generate tests automatically? Use [GitHub Copilot custom instructions](https://docs.github.com/en/copilot/customizing-copilot/adding-custom-instructions-for-github-copilot)
 
     Validate that you only get tests implementations only when asked for new features.
 
@@ -68,7 +68,8 @@ In this challenge, you will create unit tests for the API. You will need to crea
 
     Also, integrate your IDE with SonarQube and improve your code quality with the help of GitHub Copilot.
 
-    NOTE: You will need to have a SonarQube instance running to complete this challenge. For the shake of simplicity, you can use a local instance running with Docker. Instructions:
+    NOTE: You will need to have a SonarQube instance running to complete this challenge. 
+    For the shake of simplicity, you can use a local instance running with Docker. Instructions:
 
     - Install sonarqube extension
     - Run sonarqube server
