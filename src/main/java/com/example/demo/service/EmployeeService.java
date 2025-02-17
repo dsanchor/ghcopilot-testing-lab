@@ -27,8 +27,4 @@ public class EmployeeService {
     public void deleteEmployee(Long id) {
         employeeRepository.deleteById(id);
     }
-
-    public Employee findEmployeeByEmail(String email) {
-        return employeeRepository.findByEmail(email).orElse(null);
-    }
 }

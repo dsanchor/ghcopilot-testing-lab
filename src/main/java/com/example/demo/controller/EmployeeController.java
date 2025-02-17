@@ -33,14 +33,6 @@ public class EmployeeController {
         return employee;
     }
 
-    @GetMapping("/email/{email}")
-    public Employee getEmployeeByEmail(@PathVariable String email) {
-        logger.info("Entrada: GET /api/employees/email/{}", email);
-        Employee employee = employeeService.findEmployeeByEmail(email);
-        logger.info("Salida: {}", employee);
-        return employee;
-    }
-
     @PostMapping
     public Employee createEmployee(@RequestBody Employee employee) {
         logger.info("Entrada: POST /api/employees");
